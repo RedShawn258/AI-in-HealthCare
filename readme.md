@@ -10,5 +10,3 @@ Artificial Intelligence is revolutionizing HealthCare in many areas such as :
   1) For Image Classification we used RESNET50 model architecture pre-trained on Imagenet Database (Transfer learning) added our own Dense layers for classification task.
 
 2) For Image segmentation We used RESUNET architecture for better information extraction pixel wise
-
-3) We got overwhelming results
